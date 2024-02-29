@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Module_3_2_3.Start_3_2_3(); - запуск задания 3.2.3
+
